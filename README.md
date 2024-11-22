@@ -14,12 +14,7 @@ Este proyecto consiste en un sencillo script de Python que permite enviar correo
 - [Configuración](#configuración)
   - [Editar el Script](#editar-el-script)
 - [Uso](#uso)
-- [Video Tutorial](#video-tutorial)
-- [Seguridad](#seguridad)
-- [Buenas Prácticas](#buenas-prácticas)
-- [Solución de Problemas](#solución-de-problemas)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+
 
 ## Características
 
@@ -42,3 +37,6 @@ Este proyecto consiste en un sencillo script de Python que permite enviar correo
    ```bash
    git clone https://github.com/emprendedorgaston/Envios-Email.git
    cd Envios-Email
+
+## Uso
+https://www.youtube.com/watch?v=XDDeI-mAu2g
